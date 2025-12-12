@@ -41,6 +41,11 @@ export default {
 <style lang="scss">
 @use './assets/colors.scss' as *;
 
+  body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
 html {
   background-color: $primary-color;
   color: $dark-grey;
