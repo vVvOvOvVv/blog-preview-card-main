@@ -32,8 +32,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/vVvOvOvVv/blog-preview-card-main](https://github.com/vVvOvOvVv/blog-preview-card-main)
+- Live Site URL: [https://v-blog-preview-card.netlify.app](https://v-blog-preview-card.netlify.app)
 
 ## My process
 
@@ -52,7 +52,7 @@ Users should be able to:
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
+- Dev Portfolio & Website - [V's Portfolio](https://vvvovovvv.github.io)
 
 ## Acknowledgments
 
